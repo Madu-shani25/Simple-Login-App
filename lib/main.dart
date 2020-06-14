@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Greenary App',
+      title: 'Shopping App',
       color:Colors.black,
       home: MyHomePage(),
       debugShowCheckedModeBanner: false,
